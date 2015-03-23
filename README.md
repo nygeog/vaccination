@@ -8,3 +8,8 @@ Based off
 
 
 http://spreadsheets.latimes.com/immunization-levels-california/
+
+
+Main article 
+
+http://www.latimes.com/local/california/la-me-immunization-data-20150123-story.html
