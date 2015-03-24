@@ -1,7 +1,7 @@
 # vaccination
 Vaccination Data for California
 
-hhttp://nbviewer.ipython.org/github/nygeog/vaccination/blob/master/immunization-blogpost.ipynb
+http://nbviewer.ipython.org/github/nygeog/vaccination/blob/master/immunization-blogpost.ipynb
 
 
 Based off
